@@ -1,1 +1,1 @@
-https://poprostupiotrekk.github.io/goit-js-hw-06/
+https://poprostupiotrekk.github.io/goit-js-hw-07/
